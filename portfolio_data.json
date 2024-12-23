@@ -1,0 +1,33 @@
+{
+  "resumeTitle": {
+    "title": "kkkkk"
+  },
+  "information": {
+    "name": "k",
+    "contact": [
+      {
+        "id": 0,
+        "name": "Email",
+        "href": "k",
+        "isEmail": true
+      },
+      {
+        "id": 1,
+        "name": "Github",
+        "href": "k"
+      },
+      {
+        "id": 2,
+        "name": "Blog",
+        "href": "k"
+      }
+    ],
+    "additional_info": "k"
+  },
+  "workExperience": [],
+  "project": [],
+  "activity": [],
+  "education": [],
+  "certificate": [],
+  "award": []
+}
